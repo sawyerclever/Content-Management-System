@@ -110,3 +110,4 @@ This repository represents a content management system (cms) that was based upon
 - Comment/Visitor message box resizes out of div well
 - Profile editing is not optimized for ease of use
 - Session id and active user amount printed in dashboard temporarily for development
+- Admin Control Panel loader is hit or miss with loading
