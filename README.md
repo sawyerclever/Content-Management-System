@@ -92,17 +92,37 @@ This repository represents a content management system (cms) that was based upon
 		- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Same Email Registration`
 		- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Password Length Min/Max`
 - Alerts
-	- General	
+	- General
+		- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Show Recent in Navbar`
+		- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Change Alert View Status`
+		- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Add Alert`
+		- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Edit Alert`
+		- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Delete Alert`
 - Settings
-	- General	
+	- General
+		- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Change Site Title`
+		- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Change Company Name`
+		- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Toggle Comment Approval`
+		- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Contact Email`
+		- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Copyright Year`
+		- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Reset Value to Previous Value`
+	- Functions
+		- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Install Script`
+		- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Version Update`
+		- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Mailing List`
 
-### Uncategorized
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `SQL Injection Prevention`
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Admin Alert System`
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Self-Install`
+### Security
+- General	
+	- ![#c5f015](https://placehold.it/15/008000/000000?text=+) `Password Encryption with Random Salt`
+	- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Captchas`
 
+- SQL
+	- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `SQL Injection Protection`
+	
 ## Known Bugs
 - Editing profile/user shows the encrypted version of your password rather than the initial password
 - Resizing of Admin Control Panel isn't responsive for the tables
 - Sticky footer on pages with little content
 - Comment/Visitor message box resizes out of div well
+- Profile editing is not optimized for ease of use
+- Session id and active user amount printed in dashboard temporarily for development
