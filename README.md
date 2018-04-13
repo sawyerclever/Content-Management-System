@@ -3,13 +3,11 @@
 
 This repository represents a content management system (cms) that was based upon nonfunctional, free bootstrap templates.
 
-### Key
-
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Not Complete`
-- ![#f4df42](https://placehold.it/15/f4df42/000000?text=+) `In Progress`
-- ![#008000](https://placehold.it/15/008000/000000?text=+) `Complete`
-
 ### Features
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Not Complete`
+![#f4df42](https://placehold.it/15/f4df42/000000?text=+) `In Progress`
+![#008000](https://placehold.it/15/008000/000000?text=+) `Complete`
 
 - Users
 	- General
