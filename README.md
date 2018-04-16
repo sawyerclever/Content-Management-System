@@ -103,7 +103,7 @@ This repository represents a content management system (cms) that was based upon
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Captchas`
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `SQL Injection Protection`
 	
-## Known Bugs
+## Known Bugs/Unresolved Issues
 - Editing profile/user shows the encrypted version of your password rather than the initial password
 - Resizing of Admin Control Panel isn't responsive for the tables
 - Sticky footer on pages with little content
@@ -111,3 +111,5 @@ This repository represents a content management system (cms) that was based upon
 - Profile editing is not optimized for ease of use
 - Session id and active user amount printed in dashboard temporarily for development
 - Admin Control Panel loader is hit or miss with loading
+- Code Refactoring
+- Code Cleanup
