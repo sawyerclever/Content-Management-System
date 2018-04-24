@@ -1,7 +1,7 @@
 ClassicEditor
     .create( document.querySelector( '#editor' ), {
         toolbar: [ 'bold', 'italic', 'link', 'bulletedList', 'numberedList', 'blockQuote', 'undo', 'redo']
-    } 
+    }) 
     .catch( error => {
         console.log( error );
     });
